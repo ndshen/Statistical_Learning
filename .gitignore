@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# dataset
+*.csv
+\.vscode
+\final_project_pre
